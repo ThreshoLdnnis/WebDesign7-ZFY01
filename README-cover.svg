@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">ZFY 01 robot hero cover</title>
+  <desc id="desc">A cool gray robot portrait with a cream ZFY 01 wordmark and cyan spotlight accents.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#dfe8e7"/>
+      <stop offset="1" stop-color="#b6c5c5"/>
+    </linearGradient>
+    <radialGradient id="halo" cx="55%" cy="46%" r="42%">
+      <stop offset="0" stop-color="#f4ead8" stop-opacity=".7"/>
+      <stop offset="1" stop-color="#dfe8e7" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="metal" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ecf1ef"/>
+      <stop offset=".48" stop-color="#7e8f91"/>
+      <stop offset="1" stop-color="#24383d"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="900" fill="url(#bg)"/>
+  <rect width="1600" height="900" fill="url(#halo)"/>
+  <g transform="translate(910 92)">
+    <ellipse cx="180" cy="230" rx="185" ry="194" fill="url(#metal)" opacity=".95"/>
+    <circle cx="120" cy="218" r="82" fill="#c5d0ce" stroke="#1e343a" stroke-width="18"/>
+    <circle cx="120" cy="218" r="51" fill="#87999a" stroke="#e9ede8" stroke-width="10"/>
+    <path d="M273 164c67 42 84 121 52 188l-64 83-92-58 48-105z" fill="#34494e" stroke="#b9c9c7" stroke-width="8"/>
+    <path d="M121 344c-31 94-80 208-117 302" fill="none" stroke="#20353b" stroke-width="32" stroke-linecap="round"/>
+    <path d="M146 344c-26 94-49 193-57 311" fill="none" stroke="#c4d1ce" stroke-width="16" stroke-linecap="round"/>
+    <path d="M243 178c20 54 20 84 1 125" fill="none" stroke="#3fe0ef" stroke-width="6" stroke-linecap="round"/>
+    <path d="M65 230c31 15 72 15 108 0" fill="none" stroke="#3fe0ef" stroke-width="5" stroke-linecap="round"/>
+  </g>
+  <g fill="#f2e6d2" font-family="Arial, Helvetica, sans-serif" font-weight="700">
+    <text x="72" y="120" font-size="28" letter-spacing="9">ZFY / ROBOTICS</text>
+    <text x="60" y="778" font-size="190" letter-spacing="-12">ZFY 01</text>
+  </g>
+  <path d="M64 160h260" stroke="#263c42" stroke-width="4"/>
+  <circle cx="1410" cy="128" r="8" fill="#3fe0ef"/>
+  <circle cx="1442" cy="128" r="8" fill="#3fe0ef" opacity=".45"/>
+</svg>
+
