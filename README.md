@@ -1,6 +1,6 @@
 # ZFY 01
 
-![ZFY 01 cover](./README-cover.svg)
+![ZFY 01 cover](./codex-clipboard-d4f91aff-d96b-4c88-9938-1cd52fd4f8aa.png)
 
 一个无构建步骤、无框架的单文件机器人产品 Hero 页面。页面以冷青灰背景、米白色 `ZFY 01` 巨型字标和石墨青聚光机甲构成视觉核心。
 
@@ -21,4 +21,3 @@
 - CSS 使用 `clamp()`、媒体查询和 CSS mask 构建比例系统。
 - 原生 WAAPI 负责一次性的入场动画。
 - 外部资源仅包含字体样式表与机器人图片，页面本身不包含视频播放器。
-
